@@ -1,4 +1,4 @@
-# oss-audit-24BCE10276
+The Open Source Audit Of Git
 OSS capstone project on git
 # OSS Audit Project — Git
 
